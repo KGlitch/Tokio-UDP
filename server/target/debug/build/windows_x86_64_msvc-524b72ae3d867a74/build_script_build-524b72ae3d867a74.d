@@ -1,0 +1,5 @@
+C:\Users\konra\OneDrive\Dokumente\DHBW\S4\Verteilte Systeme\Tokio Präsentation\tokio-udp\server\target\debug\build\windows_x86_64_msvc-524b72ae3d867a74\build_script_build-524b72ae3d867a74.exe: C:\Users\konra\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows_x86_64_msvc-0.48.5\build.rs
+
+C:\Users\konra\OneDrive\Dokumente\DHBW\S4\Verteilte Systeme\Tokio Präsentation\tokio-udp\server\target\debug\build\windows_x86_64_msvc-524b72ae3d867a74\build_script_build-524b72ae3d867a74.d: C:\Users\konra\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows_x86_64_msvc-0.48.5\build.rs
+
+C:\Users\konra\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows_x86_64_msvc-0.48.5\build.rs:
